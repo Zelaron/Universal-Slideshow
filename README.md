@@ -8,10 +8,10 @@ Navigate manually using left/right arrow keys, or let the slideshow auto-advance
 
 - Fullscreen display with automatic image scaling
 - Works across Windows, macOS, and Linux
-- Smart detection of system Pictures folder
 - Manual navigation with arrow keys
 - Random image order
 - Configurable auto-advance timer
+- Smart detection of system Pictures folder
 - Black background for optimal viewing
 
 ## Installation
