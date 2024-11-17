@@ -1,4 +1,4 @@
-# Universal-Slideshow
+# Universal Slideshow
 
 A lightweight, cross-platform image slideshow application that works seamlessly on Windows (7+), macOS (10.9+), and Linux. Browse your image collection in fullscreen with arrow key navigation, randomized order, and automatic advancement.
 
