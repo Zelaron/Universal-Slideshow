@@ -9,7 +9,7 @@ Navigate manually using left/right arrow keys, or let the slideshow auto-advance
 - Fullscreen display with automatic image scaling
 - Works across Windows, macOS, and Linux
 - Manual navigation with arrow keys
-- Random image order
+- Random image order with shuffle functionality
 - Configurable auto-advance timer
 - Smart detection of system Pictures folder
 - Black background for optimal viewing
@@ -68,6 +68,7 @@ To change how long each image is displayed:
 
 - **Right Arrow**: Next image
 - **Left Arrow**: Previous image
+- **S Key**: Shuffle all images and restart from the beginning 
 - **ESC**: Exit slideshow
 
 ## Requirements
